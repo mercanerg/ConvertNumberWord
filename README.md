@@ -1,4 +1,4 @@
-# ConvertNumberWork <br>
+# ConvertNumberWord <br>
 convert decimal number to text<br>
 ********* RCN Soft ********* <br>
     If decimal exists, it constructs the word for point value.
